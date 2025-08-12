@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
 import { Button } from "./ui/button";
-import LOGO from "../assets/logo.png"; // Adjust the path as necessary
+import LOGO from "../assets/LOGO.png"; // Adjust the path as necessary
 
 export function Navigation() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

@@ -18,7 +18,7 @@ import {
   Calendar,
 } from "lucide-react";
 
-import LOGO from "../assets/logo.png"; // Adjust the path as necessary
+import LOGO from "../assets/LOGO.png"; // Adjust the path as necessary
 
 export default function Services() {
   const coreServices = [
