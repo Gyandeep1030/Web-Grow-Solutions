@@ -54,11 +54,3 @@ A professional website showcasing digital solutions including custom website dev
    ```
    http://localhost:3000
    ```
-
-## Contact
-
-For inquiries or support, please contact Web Grow Solutions at [email@example.com].
-
-## License
-
-This project is licensed under the MIT License.
